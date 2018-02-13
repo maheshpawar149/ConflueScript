@@ -1,0 +1,2 @@
+# ConflueScript
+Confluence Bamboo Status 
