@@ -1,4 +1,4 @@
-# ConflueScript
+# Confluence+Bamboo Enviornment Script  
 Confluence Bamboo Status 
 
 To user this Script :
