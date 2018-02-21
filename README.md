@@ -12,6 +12,6 @@ Go to Run -> Run Customized & Select any following:
   Select Hour & give value in Whole Number as in (2, 5, 10).
   Select MemberName & give value in Name as (Mahesh, Pravin, Asifali)
   
-  # 3.Chaning Environment Status:
+  # 3.Changing Environment Status:
   Select Env & give value Environment Name as in (CUT01, CUT14).
   Select change & give value change as in (o:OPEN, d:DOWN, r:RELEASE).
