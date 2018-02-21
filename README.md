@@ -9,7 +9,9 @@ Go to Run -> Run Customized & Select any following:
   
   # 2. Allocating Env to Member:
   Select Env & give value Environment Name as in (CUT01, CUT14).
+  
   Select Hour & give value in Whole Number as in (2, 5, 10).
+  
   Select MemberName & give value in Name as (Mahesh, Pravin, Asifali)
   
   # 3.Changing Environment Status:
